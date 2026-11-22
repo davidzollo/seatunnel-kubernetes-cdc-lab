@@ -1,0 +1,13 @@
+source_rows	target_rows
+100000	100000
+missing_rows
+0
+extra_rows
+0
+changed_rows
+0
+id	status	amount
+2	shipped	45.50
+50001	paid	30.00
+100000	paid	30.00
+100002	created	19.90
